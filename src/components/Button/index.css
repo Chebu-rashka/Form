@@ -1,0 +1,15 @@
+button {
+  border: none;
+  padding: 10px 40px;
+  box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.3);
+  text-transform: uppercase;
+  outline: none;
+  background-color: #fff;
+  font-family: monospace;
+  border-radius: 50px;
+}
+
+button.primary {
+  background-color: #812f93;
+  color: #fff;
+}
